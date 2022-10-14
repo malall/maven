@@ -1,4 +1,4 @@
-package training;
+package Main.java;
 
 public class Main {
 
