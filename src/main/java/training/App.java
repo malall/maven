@@ -1,11 +1,11 @@
 package training;
 
 /**
- * Hello world!
+ * Hello Ravi!
  *
  */
-class HelloWorld {
+class Hello Ravi {
     public static void main(String[] args) {
-        System.out.println("Hello"); 
+        System.out.println("Hello Ravi"); 
     }
 }
